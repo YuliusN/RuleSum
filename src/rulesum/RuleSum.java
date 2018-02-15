@@ -13,7 +13,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author ACER
+ * @author Yulius
  */
 public class RuleSum {
 
