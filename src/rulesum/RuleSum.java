@@ -31,6 +31,7 @@ public class RuleSum {
             String out = form.formalizeSentence(st);
             form.initStopword();
             String g = form.deleteStopword(out);
+            System.out.println("Result:");
             System.out.println(g);
         }
     }
