@@ -8,7 +8,6 @@ package rulesum;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
 
 
@@ -20,6 +19,7 @@ public class RuleSum {
 
     /**
      * @param args the command line arguments
+     * RuleSum: first step program for AI in text summarization
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
